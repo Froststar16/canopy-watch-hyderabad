@@ -1,0 +1,16 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Large / raw geospatial outputs — keep these in Drive only, not GitHub
+outputs/*.tif
+outputs/*.tiff
+data/raw/
+
+# Credentials
+credentials.json
+*.json.key
