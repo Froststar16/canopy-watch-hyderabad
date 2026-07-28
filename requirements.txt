@@ -1,6 +1,0 @@
-earthengine-api
-geemap
-pandas
-matplotlib
-folium
-streamlit
