@@ -7,3 +7,6 @@ streamlit
 geopandas
 shapely
 requests
+leafmap
+plotly
+mapclassify
